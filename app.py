@@ -1,1 +1,1 @@
-print("Hello, World! Welcome to my app. Nice to see you here. Keep exploring and have fun!")
+print("Hello, World! Welcome to my app. Nice to see you here. Keep exploring and have fun! This is just the beginning of an exciting journey. Stay tuned for more updates and features coming soon. Enjoy your time here!")
