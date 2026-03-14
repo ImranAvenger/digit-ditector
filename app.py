@@ -1,1 +1,1 @@
-print("Hello, World! Welcome to my app. Nice to see you here. Keep exploring and have fun! This is just the beginning of an exciting journey. Stay tuned for more updates and features coming soon. Enjoy your time here!")
+print("Hello! I am the Digit Detector model — a machine learning model trained to recognize and classify handwritten digits (0–9). Welcome to my app. Nice to see you here. Keep exploring and have fun! This is just the beginning of an exciting journey. Stay tuned for more updates and features coming soon. Enjoy your time here!")
